@@ -1,0 +1,2 @@
+17 15 5 3
+gcc buying_a_TV_set.c -o buying_a_TV_set./buying_a_TV_set < input.txt
